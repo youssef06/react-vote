@@ -3,6 +3,10 @@
  */
 import React from 'react';
 import ReactDOM from 'react-dom';
+import {News} from './News.jsx';
 
-console.log('Hello');
+var newsComponent = ReactDOM.render(
+    <News />,
+    document.getElementById('app')
+);
 
