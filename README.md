@@ -1,6 +1,7 @@
 Simple React Voting App 
 =======================
 Check demo [here](http://youssef06.github.io/react-vote/index.html)
+
 I built this simple Voting app for learning purposes, if you have any suggestion/fix please feel free to contribute :).
 
 Setup
