@@ -1,7 +1,7 @@
 {
   "name": "react-todo",
   "version": "1.0.0",
-  "description": "Simple React TODO App",
+  "description": "Simple React Voting App",
   "main": "index.js",
   "dependencies": {
     "babel-preset-es2015": "^6.16.0",
