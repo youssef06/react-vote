@@ -18,3 +18,7 @@ npm install
 ```
 gulp
 ```
+
+
+> **With Firebase:** You can find the same App powered by a Firebase database [here](https://github.com/youssef06/react-vote-firebase).
+ 
